@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+!.env.example
+
+# Output directory (generated images, reports)
+output/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Virtual environments
+venv/
+.venv/
+env/

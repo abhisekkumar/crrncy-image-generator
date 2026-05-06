@@ -1,0 +1,216 @@
+product_id,brand,product,category
+CRRNCY-PRD-001,AmLactin,Rough & Bumpy Skin Daily Smoothing Cream,body
+CRRNCY-PRD-002,Aquaphor,Healing Ointment,lip
+CRRNCY-PRD-003,Aveda,Damage Remedy Intensive Restructuring Treatment,haircare
+CRRNCY-PRD-004,Aveeno,Calm + Restore Oat Gel Moisturizer,moisturizer
+CRRNCY-PRD-005,Aveeno,Daily Moisturizing Lotion,moisturizer
+CRRNCY-PRD-006,Aveeno,Positively Radiant Daily Moisturizer SPF 30,moisturizer
+CRRNCY-PRD-007,Avène,Recovery Balm,moisturizer
+CRRNCY-PRD-008,Beauty of Joseon,Ginseng Essence Water,toner
+CRRNCY-PRD-009,Beauty of Joseon,Glow Serum,serum
+CRRNCY-PRD-010,Beauty of Joseon,Propolis + Niacinamide Serum,serum
+CRRNCY-PRD-011,Beauty of Joseon,Relief Sun Rice + Probiotics SPF 50+,sunscreen
+CRRNCY-PRD-012,Beauty of Joseon,Skin Ginseng Ultimate Cream,moisturizer
+CRRNCY-PRD-013,Belif,Aqua Bomb Hydrating Moisturizer,moisturizer
+CRRNCY-PRD-014,Benefit,The POREfessional Face Primer,makeup
+CRRNCY-PRD-015,Bioré,UV Aqua Rich Watery Essence SPF 50+,sunscreen
+CRRNCY-PRD-016,Briogeo,"Don't Despair, Repair! Deep Conditioning Mask",haircare
+CRRNCY-PRD-017,Briogeo,Scalp Revival Charcoal + Coconut Oil Shampoo,haircare
+CRRNCY-PRD-018,Bumble and bumble,Hairdresser's Invisible Oil,haircare
+CRRNCY-PRD-019,Burt's Bees,Original Lip Balm,lip
+CRRNCY-PRD-020,CeraVe,AM Facial Moisturizing Lotion SPF 30,moisturizer
+CRRNCY-PRD-021,CeraVe,Acne Foaming Cream Cleanser,cleanser
+CRRNCY-PRD-022,CeraVe,Daily Moisturizing Lotion,body_care
+CRRNCY-PRD-023,CeraVe,Eye Repair Cream,eye_care
+CRRNCY-PRD-024,CeraVe,Foaming Facial Cleanser,cleanser
+CRRNCY-PRD-025,CeraVe,Healing Ointment,lip_care
+CRRNCY-PRD-026,CeraVe,Hydrating Cream-to-Foam Cleanser,cleanser
+CRRNCY-PRD-027,CeraVe,Hydrating Face Sunscreen SPF 50,sunscreen
+CRRNCY-PRD-028,CeraVe,Hydrating Facial Cleanser,cleanser
+CRRNCY-PRD-029,CeraVe,Hydrating Facial Toner,toner
+CRRNCY-PRD-030,CeraVe,Moisturizing Cream,moisturizer
+CRRNCY-PRD-031,CeraVe,PM Facial Moisturizing Lotion,moisturizer
+CRRNCY-PRD-032,CeraVe,SA Body Wash for Rough & Bumpy Skin,body
+CRRNCY-PRD-033,CeraVe,SA Smoothing Cleanser,cleanser
+CRRNCY-PRD-034,CeraVe,SA Smoothing Cream,body_care
+CRRNCY-PRD-035,Cetaphil,Daily Facial Cleanser,cleanser
+CRRNCY-PRD-036,Cetaphil,Gentle Skin Cleanser,cleanser
+CRRNCY-PRD-037,Chanel,La Crème Main,body
+CRRNCY-PRD-038,Charlotte Tilbury,Flawless Filter,makeup
+CRRNCY-PRD-039,Clinique,Fresh Pressed Vitamin C,treatment
+CRRNCY-PRD-040,Clinique,Dramatically Different Moisturizing Lotion+,moisturizer
+CRRNCY-PRD-041,Clinique,Moisture Surge 100H Auto-Replenishing Hydrator,moisturizer
+CRRNCY-PRD-042,Clinique,Take The Day Off Cleansing Balm,cleanser
+CRRNCY-PRD-043,Coola,Sport Sunscreen SPF 50,sunscreen
+CRRNCY-PRD-044,COSRX,AHA/BHA Clarifying Treatment Toner,toner
+CRRNCY-PRD-045,COSRX,Acne Pimple Master Patch,treatment
+CRRNCY-PRD-046,COSRX,Advanced Snail 96 Mucin Power Essence,serum
+CRRNCY-PRD-047,COSRX,Aloe Soothing Sun Cream SPF 50+,sunscreen
+CRRNCY-PRD-048,COSRX,BHA Blackhead Power Liquid,treatment
+CRRNCY-PRD-049,COSRX,Full Fit Propolis Light Cream,moisturizer
+CRRNCY-PRD-050,COSRX,Low pH Good Morning Gel Cleanser,cleanser
+CRRNCY-PRD-051,COSRX,Snail Mucin 92% Moisturizer,moisturizer
+CRRNCY-PRD-052,Dermalogica,Active Moist,moisturizer
+CRRNCY-PRD-053,Dermalogica,Daily UV Defense SPF 36,sunscreen
+CRRNCY-PRD-054,DHC,Cleansing Oil,cleanser
+CRRNCY-PRD-055,Differin,Adapalene Gel 0.1%,treatment
+CRRNCY-PRD-056,Dior,Lip Glow,lip
+CRRNCY-PRD-057,Dr. Jart+,Cicapair Cream,moisturizer
+CRRNCY-PRD-058,Dr. Jart+,Ceramidin Cream,moisturizer
+CRRNCY-PRD-059,Dr. Paw Paw,Multipurpose Soothing Balm,lip
+CRRNCY-PRD-060,Drunk Elephant,A-Passioni Retinol Cream,serum
+CRRNCY-PRD-061,Drunk Elephant,B-Hydra Intensive Hydration Serum,serum
+CRRNCY-PRD-062,Drunk Elephant,Beste No. 9 Jelly Cleanser,cleanser
+CRRNCY-PRD-063,Drunk Elephant,C-Firma Fresh Day Serum,serum
+CRRNCY-PRD-064,Drunk Elephant,C-Tango Vitamin C Eye Cream,eye
+CRRNCY-PRD-065,Drunk Elephant,Lala Retro Whipped Cream,moisturizer
+CRRNCY-PRD-066,Drunk Elephant,Protini Polypeptide Cream,moisturizer
+CRRNCY-PRD-067,Drunk Elephant,Shaba Complex Eye Serum,eye_care
+CRRNCY-PRD-068,Drunk Elephant,T.L.C. Framboos Glycolic Night Serum,serum
+CRRNCY-PRD-069,Drunk Elephant,T.L.C. Sukari Babyfacial,mask
+CRRNCY-PRD-070,Elizabeth Arden,Retinol Ceramide Eye Cream,eye
+CRRNCY-PRD-071,EltaMD,UV Clear Broad-Spectrum SPF 46,sunscreen
+CRRNCY-PRD-072,Eminence,Probiotic Moisture Boost,moisturizer
+CRRNCY-PRD-073,Estée Lauder,Advanced Night Repair Eye Supercharged Complex,eye_care
+CRRNCY-PRD-074,Estée Lauder,Advanced Night Repair Serum,serum
+CRRNCY-PRD-075,Eucerin,Advanced Repair Lotion,body
+CRRNCY-PRD-076,Farmacy,Honey Lip Treatment,lip
+CRRNCY-PRD-077,Farmacy,Honey Mask,mask
+CRRNCY-PRD-078,First Aid Beauty,A.C.E Vitamin Boost Cream,treatment
+CRRNCY-PRD-079,First Aid Beauty,Ultra Repair Cream,moisturizer
+CRRNCY-PRD-080,Fresh,Black Tea Cleanser,cleanser
+CRRNCY-PRD-081,Fresh,Soy Face Cleanser,cleanser
+CRRNCY-PRD-082,Fresh,Rose Deep Hydration Facial Toner,toner
+CRRNCY-PRD-083,Fresh,Rose Face Mask,mask
+CRRNCY-PRD-084,Fresh,Sugar Lip Treatment SPF 15,lip
+CRRNCY-PRD-085,Givenchy,Rose Perfecto Lip Balm,lip
+CRRNCY-PRD-086,Glossier,Futuredew,makeup
+CRRNCY-PRD-087,Glossier,Milky Jelly Cleanser,cleanser
+CRRNCY-PRD-088,Glow Recipe,Overnight Exfoliating Treatment with AHA,treatment
+CRRNCY-PRD-089,Glow Recipe,Plum Plump Hyaluronic Cream,moisturizer
+CRRNCY-PRD-090,Glow Recipe,Plum Plump Hyaluronic Serum,serum
+CRRNCY-PRD-091,Glow Recipe,Superberry Dream Cleansing Balm,cleanser
+CRRNCY-PRD-092,Glow Recipe,Watermelon Glow Niacinamide Dew Drops,serum
+CRRNCY-PRD-093,Glow Recipe,Watermelon Glow Sleeping Mask,mask
+CRRNCY-PRD-094,Gold Bond,Ultimate Healing Lotion,body
+CRRNCY-PRD-095,Herbivore,Blue Tansy Mask,treatment
+CRRNCY-PRD-096,I'm From,Mugwort Essence,serum
+CRRNCY-PRD-097,I'm From,Rice Toner,toner
+CRRNCY-PRD-098,IT Cosmetics,CC+ Cream with SPF 50+,makeup
+CRRNCY-PRD-099,K18,Leave-In Molecular Repair Hair Mask,haircare
+CRRNCY-PRD-100,Kiehl's,Creamy Eye Treatment with Avocado,eye
+CRRNCY-PRD-101,Kiehl's,Eye Concentrate for Wrinkles,eye
+CRRNCY-PRD-102,Kiehl's,Midnight Recovery Concentrate,serum
+CRRNCY-PRD-103,Kiehl's,Soy Face Cleanser,cleanser
+CRRNCY-PRD-104,Kiehl's,Ultra Facial Cleanser,cleanser
+CRRNCY-PRD-105,Kiehl's,Ultra Facial Cream,moisturizer
+CRRNCY-PRD-106,Kiehl's,Ultra Light Daily UV Defense SPF 50,sunscreen
+CRRNCY-PRD-107,Klairs,Supple Preparation Unscented Toner,toner
+CRRNCY-PRD-108,Krave Beauty,Amino Acid Facial Cleanser,cleanser
+CRRNCY-PRD-109,Krave Beauty,Great Barrier Relief,moisturizer
+CRRNCY-PRD-110,Kérastase,Nutritive Bain Satin 1,haircare
+CRRNCY-PRD-111,La Mer,Crème de la Mer Moisturizing Cream,moisturizer
+CRRNCY-PRD-112,La Roche-Posay,Anthelios Melt-in Milk SPF 60,sunscreen
+CRRNCY-PRD-113,La Roche-Posay,Anthelios Mineral SPF 50,sunscreen
+CRRNCY-PRD-114,La Roche-Posay,Cicaplast Baume B5,moisturizer
+CRRNCY-PRD-115,La Roche-Posay,Effaclar Clarifying Solution Acne Toner,toner
+CRRNCY-PRD-116,La Roche-Posay,Effaclar Duo+ Acne Treatment,treatment
+CRRNCY-PRD-117,La Roche-Posay,Effaclar Purifying Foaming Gel,cleanser
+CRRNCY-PRD-118,La Roche-Posay,Toleriane Double Repair Face Moisturizer,moisturizer
+CRRNCY-PRD-119,La Roche-Posay,Toleriane Hydrating Gentle Cleanser,cleanser
+CRRNCY-PRD-120,Lancôme,Génifique Youth Activating Concentrate,serum
+CRRNCY-PRD-121,Laneige,Lip Sleeping Mask,lip_care
+CRRNCY-PRD-122,Laneige,Water Bank Blue Hyaluronic Cream,moisturizer
+CRRNCY-PRD-123,Laneige,Water Sleeping Mask,moisturizer
+CRRNCY-PRD-124,Living Proof,Perfect Hair Day Dry Shampoo,haircare
+CRRNCY-PRD-125,Lubriderm,Daily Moisture Lotion,body
+CRRNCY-PRD-126,MAC,Studio Fix Fluid,makeup
+CRRNCY-PRD-127,Maybelline,Fit Me Matte + Poreless Liquid Foundation,makeup
+CRRNCY-PRD-128,Maybelline,Instant Age Rewind Concealer,makeup
+CRRNCY-PRD-129,Milk Makeup,Hydro Grip Primer,makeup
+CRRNCY-PRD-130,Moroccanoil,Treatment Original,haircare
+CRRNCY-PRD-131,Murad,Multi-Corrective Eye Cream,eye
+CRRNCY-PRD-132,Murad,Overnight Retinol Repair,serum
+CRRNCY-PRD-133,NARS,Radiant Creamy Concealer,makeup
+CRRNCY-PRD-134,Naturium,Tranexamic Acid Treatment,serum
+CRRNCY-PRD-135,Neutrogena,Hydro Boost Gel-Cream,moisturizer
+CRRNCY-PRD-136,Neutrogena,Hydro Boost Hydrating Cleansing Gel,cleanser
+CRRNCY-PRD-137,Neutrogena,Hydro Boost Water Gel,moisturizer
+CRRNCY-PRD-138,Neutrogena,Hydro Boost Water Gel Lotion SPF 50,sunscreen
+CRRNCY-PRD-139,Neutrogena,Oil-Free Acne Wash,cleanser
+CRRNCY-PRD-140,Neutrogena,Oil-Free Ultra Moisturizing Lotion,moisturizer
+CRRNCY-PRD-141,Neutrogena,Ultra Gentle Daily Cleanser,cleanser
+CRRNCY-PRD-142,Neutrogena,Ultra Sheer Dry-Touch SPF 100+,sunscreen
+CRRNCY-PRD-143,Nuxe,Huile Prodigieuse,body
+CRRNCY-PRD-144,Olaplex,No. 3 Hair Perfector,haircare
+CRRNCY-PRD-145,Olaplex,No. 4 Bond Maintenance Shampoo,haircare
+CRRNCY-PRD-146,Olaplex,No. 5 Bond Maintenance Conditioner,haircare
+CRRNCY-PRD-147,Ole Henriksen,Banana Bright Eye Crème,eye
+CRRNCY-PRD-148,Origins,Black Charcoal Mask,mask
+CRRNCY-PRD-149,Origins,Drink Up Intensive Overnight Hydrating Mask,mask
+CRRNCY-PRD-150,Origins,Original Skin Retexturing Mask with Rose Clay,mask
+CRRNCY-PRD-151,Origins,Ready Set Refresh Skin-Prep Toner,toner
+CRRNCY-PRD-152,Paula's Choice,10% Azelaic Acid Booster,serum
+CRRNCY-PRD-153,Paula's Choice,2% BHA Liquid Exfoliant,serum
+CRRNCY-PRD-154,Paula's Choice,C15 Super Booster,serum
+CRRNCY-PRD-155,Perricone MD,Resurfacing Serum,serum
+CRRNCY-PRD-156,Philosophy,Purity Made Simple One-Step Facial Cleanser,cleanser
+CRRNCY-PRD-157,Pixi,Glow Tonic,treatment
+CRRNCY-PRD-158,PURITO,Centella Green Level Safe Sun SPF 50+,sunscreen
+CRRNCY-PRD-159,Rare Beauty,Soft Pinch Liquid Blush,makeup
+CRRNCY-PRD-160,Redken,All Soft Shampoo,haircare
+CRRNCY-PRD-161,Rhode,Peptide Lip Treatment,lip
+CRRNCY-PRD-162,RoC,Retinol Eye Cream,eye
+CRRNCY-PRD-163,Shani Darden,Retinol Reform,treatment
+CRRNCY-PRD-164,Shiseido,Benefiance Eye Cream,eye
+CRRNCY-PRD-165,Sisley,Black Rose Skin Infusion Cream,moisturizer
+CRRNCY-PRD-166,SK-II,Pitera Essence,toner
+CRRNCY-PRD-167,SkinCeuticals,C E Ferulic,serum
+CRRNCY-PRD-168,SkinCeuticals,H.A. Intensifier,serum
+CRRNCY-PRD-169,SkinCeuticals,Phloretin CF,serum
+CRRNCY-PRD-170,SkinCeuticals,Sheer Mineral UV Defense SPF 50,sunscreen
+CRRNCY-PRD-171,SkinCeuticals,Triple Lipid Restore,serum
+CRRNCY-PRD-172,Skinfood,Egg White Pore Foam,cleanser
+CRRNCY-PRD-173,SkinMedica,Invisible Physical Defense SPF 30,sunscreen
+CRRNCY-PRD-174,Smashbox,Photo Finish Smooth & Blur Primer,makeup
+CRRNCY-PRD-175,Smith's,Rosebud Salve,lip
+CRRNCY-PRD-176,Sol de Janeiro,Beija Flor Elasti-Cream,body
+CRRNCY-PRD-177,Sol de Janeiro,Brazilian Bum Bum Cream,body_care
+CRRNCY-PRD-178,Son & Park,Miracle Water,cleanser
+CRRNCY-PRD-179,Sun Bum,Original SPF 50 Sunscreen Face Lotion,sunscreen
+CRRNCY-PRD-180,Sunday Riley,Good Genes All-In-One Lactic Acid Treatment,serum
+CRRNCY-PRD-181,Sunday Riley,Luna Sleeping Night Oil,serum
+CRRNCY-PRD-182,Supergoop,Glowscreen SPF 40,sunscreen
+CRRNCY-PRD-183,Supergoop,Mineral Matte Screen SPF 40,sunscreen
+CRRNCY-PRD-184,Supergoop,Unseen Sunscreen SPF 40,sunscreen
+CRRNCY-PRD-185,Tarte,Shape Tape Concealer,makeup
+CRRNCY-PRD-186,Tatcha,Dewy Skin Cream,moisturizer
+CRRNCY-PRD-187,Tatcha,Water Cream,moisturizer
+CRRNCY-PRD-188,The Face Shop,Rice Water Bright Foaming Cleanser,cleanser
+CRRNCY-PRD-189,The Ordinary,AHA 30% + BHA 2% Peeling Solution,treatment
+CRRNCY-PRD-190,The Ordinary,Alpha Arbutin 2% + HA,serum
+CRRNCY-PRD-191,The Ordinary,Ascorbyl Glucoside Solution 12%,serum
+CRRNCY-PRD-192,The Ordinary,Azelaic Acid Suspension 10%,serum
+CRRNCY-PRD-193,The Ordinary,Buffet,serum
+CRRNCY-PRD-194,The Ordinary,Caffeine Solution 5% + EGCG,eye_care
+CRRNCY-PRD-195,The Ordinary,Glycolic Acid 7% Toning Solution,toner
+CRRNCY-PRD-196,The Ordinary,Granactive Retinoid 2% Emulsion,serum
+CRRNCY-PRD-197,The Ordinary,Hyaluronic Acid 2% + B5,serum
+CRRNCY-PRD-198,The Ordinary,Lactic Acid 10% + HA,serum
+CRRNCY-PRD-199,The Ordinary,Mandelic Acid 10% + HA,treatment
+CRRNCY-PRD-200,The Ordinary,Marine Hyaluronics,serum
+CRRNCY-PRD-201,The Ordinary,Mineral UV Filters SPF 30,sunscreen
+CRRNCY-PRD-202,The Ordinary,Natural Moisturizing Factors + HA,moisturizer
+CRRNCY-PRD-203,The Ordinary,Niacinamide 10% + Zinc 1%,serum
+CRRNCY-PRD-204,The Ordinary,Resveratrol 3% + Ferulic Acid 3%,serum
+CRRNCY-PRD-205,The Ordinary,Retinol 0.5% in Squalane,serum
+CRRNCY-PRD-206,The Ordinary,Vitamin C Suspension 23% + HA Spheres 2%,serum
+CRRNCY-PRD-207,Timeless,Matrixyl 3000 Serum,serum
+CRRNCY-PRD-208,Timeless,Vitamin C + E Serum,serum
+CRRNCY-PRD-209,Too Faced,Better Than Sex Mascara,makeup
+CRRNCY-PRD-210,Tree Hut,Coco Mango Body Butter,body
+CRRNCY-PRD-211,Tree Hut,Shea Sugar Scrub - Coco Colada,body
+CRRNCY-PRD-212,True Botanicals,Idebenone Serum,serum
+CRRNCY-PRD-213,Urban Decay,All Nighter Setting Spray,makeup
+CRRNCY-PRD-214,Vichy,Normaderm Phytosolution Cleanser,cleanser
+CRRNCY-PRD-215,Weleda,Skin Food,moisturizer
