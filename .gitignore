@@ -9,6 +9,7 @@ __pycache__/
 
 # Output directory (generated images, reports)
 output/
+cb_images/
 
 # OS files
 .DS_Store
