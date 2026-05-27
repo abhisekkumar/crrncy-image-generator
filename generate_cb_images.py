@@ -541,16 +541,27 @@ CRITICAL REQUIREMENTS:
 - Premium editorial travel photography aesthetic
 - Clean, uncluttered scenery
 
-ABSOLUTELY FORBIDDEN:
+ABSOLUTELY FORBIDDEN - DO NOT INCLUDE ANY OF THESE:
 - No text, words, letters, numbers, or writing of any kind
 - No timestamps, dates, clocks, or time displays
 - No watermarks, signatures, or logos
 - No titles, captions, labels, or annotations
 - No phone screens, app interfaces, cards, buttons, or digital elements
 - No rectangles, frames, borders, or geometric overlays
-- NO COLLAGES, NO GRIDS, NO 2x2 LAYOUTS, NO MULTIPLE IMAGES - SINGLE IMAGE ONLY
-- NO split screens or side-by-side comparisons
-- Pure natural landscape scenery only - ONE SINGLE CONTINUOUS IMAGE
+
+IMAGE MUST BE SINGLE AND EDGE-TO-EDGE:
+- NO COLLAGES of any kind
+- NO GRIDS (2x2, 2x1, 1x2, or any grid layout)
+- NO STACKED IMAGES (two images on top of each other)
+- NO DUPLICATE IMAGES within the same frame
+- NO SPLIT SCREENS or side-by-side comparisons
+- NO MULTIPLE PANELS or tiled images
+- NO WHITE BORDERS, margins, or bars (top, bottom, left, right)
+- NO BLACK BORDERS, letterboxing, or pillarboxing
+- NO FRAMES or picture-in-picture effects
+- Image MUST fill the ENTIRE canvas edge-to-edge with NO empty space
+- ONE SINGLE CONTINUOUS LANDSCAPE IMAGE that fills the full frame
+- Pure natural landscape scenery only - SINGLE SEAMLESS IMAGE
 """
     return prompt
 
